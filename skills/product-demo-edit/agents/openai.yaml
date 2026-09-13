@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品演示视频剪辑"
+  short_description: "将录屏整理为产品演示，精准调整放大区域并验证最终导出质量"
+  default_prompt: "使用 $product-demo-edit 规划或修改产品演示视频，并检查关键操作画面与交付文件。"
