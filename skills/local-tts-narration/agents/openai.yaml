@@ -1,0 +1,4 @@
+interface:
+  display_name: "本地 TTS 旁白制作"
+  short_description: "用本地 IndexTTS 制作固定音色旁白，支持分段续做与字幕对齐"
+  default_prompt: "使用 $local-tts-narration 将已确认的文稿制作成本地旁白，并保留可恢复的生成记录。"
